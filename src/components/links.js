@@ -1,6 +1,6 @@
-import React, {useState, useEffect} from 'react';
+import React from 'react';
 
-function Links(props) {
+function Links() {
   return (
     <div className="Links">
 
